@@ -1,0 +1,68 @@
+[11:56 EAT] Trying method 2 from server one...
+[11:57 EAT] Successfully connected via method 2 from server one
+[11:57 EAT] Processing...
+[11:57 EAT] Processed successfully.
+[11:57 EAT] Starting 1/3...
+[11:57 EAT] [Uncaught Exception] Error: libdl.so: cannot open shared object file: No such file or directory
+    at Object..node (node:internal/modules/cjs/loader:1865:18)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at bindings (/data/data/com.termux/files/home/CypherX/node_modules/bindings/bindings.js:112:48)
+    at Object.<anonymous> (/data/data/com.termux/files/home/CypherX/node_modules/sqlite3/lib/sqlite3-binding.js:1:37)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+[11:59 EAT] Shutting down CypherX due to SIGINT...
+[11:59 EAT] Trying method 2 from server one...
+[11:59 EAT] Successfully connected via method 2 from server one
+[11:59 EAT] Processing...
+[11:59 EAT] Processed successfully.
+[11:59 EAT] Starting 1/3...
+[11:59 EAT] [Uncaught Exception] Error: libdl.so: cannot open shared object file: No such file or directory
+    at Object..node (node:internal/modules/cjs/loader:1865:18)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at bindings (/data/data/com.termux/files/home/CypherX/node_modules/bindings/bindings.js:112:48)
+    at Object.<anonymous> (/data/data/com.termux/files/home/CypherX/node_modules/sqlite3/lib/sqlite3-binding.js:1:37)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+[12:01 EAT] Shutting down CypherX due to SIGINT...
+[12:02 EAT] Trying method 2 from server one...
+[12:02 EAT] Successfully connected via method 2 from server one
+[12:02 EAT] Processing...
+[12:02 EAT] Processed successfully.
+[12:02 EAT] Starting 1/3...
+[12:02 EAT] [Uncaught Exception] Error: libdl.so: cannot open shared object file: No such file or directory
+    at Object..node (node:internal/modules/cjs/loader:1865:18)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at bindings (/data/data/com.termux/files/home/CypherX/node_modules/bindings/bindings.js:112:48)
+    at Object.<anonymous> (/data/data/com.termux/files/home/CypherX/node_modules/sqlite3/lib/sqlite3-binding.js:1:37)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+[12:03 EAT] Shutting down CypherX due to SIGINT...
+[12:04 EAT] Trying method 2 from server one...
+[12:04 EAT] Successfully connected via method 2 from server one
+[12:04 EAT] Processing...
+[12:04 EAT] Processed successfully.
+[12:04 EAT] Starting 1/3...
+[12:04 EAT] [Uncaught Exception] Error: libdl.so: cannot open shared object file: No such file or directory
+    at Object..node (node:internal/modules/cjs/loader:1865:18)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at bindings (/data/data/com.termux/files/home/CypherX/node_modules/bindings/bindings.js:112:48)
+    at Object.<anonymous> (/data/data/com.termux/files/home/CypherX/node_modules/sqlite3/lib/sqlite3-binding.js:1:37)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+[12:05 EAT] Shutting down CypherX due to SIGINT...
